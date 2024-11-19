@@ -36,8 +36,10 @@ export default function CheckStations({ fromStation, toStation }) {
     const stationStart = fromStation.replace(/%20/g, " ");
     const stationTarget = toStation.replace(/%20/g, " ");
 
+    const API_ROUTE = process.env.NEXT_PUBLIC_API_ROUTE;
+
     useEffect(() => {
-        fetch(`https://metroapi.metrogate.in/api/${fromStation}/${toStation}`)
+        fetch(`${API_ROUTE}/api/${fromStation}/${toStation}`)
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
