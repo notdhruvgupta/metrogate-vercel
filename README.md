@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Who We Are
 
-## Getting Started
+At Metrogate, we are your trusted partners in navigating the extensive Delhi metro network, spanning an impressive 391 kilometers across the bustling Delhi-NCR region. Our unwavering commitment is to serve the diverse needs of commuters, offering a comprehensive suite of services designed to streamline your journey and enrich your experience.
 
-First, run the development server:
+----------
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Our Mission
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Our overarching mission is to become the premier destination for all your travel needs within Delhi-NCR. We understand the daily challenges faced by commuters in this vibrant metropolis, and we've made it our duty to alleviate your burdens, saving you precious time and sparing you the hassles often associated with public transportation.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+----------
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Our Services
 
-## Learn More
+**Comprehensive Navigation:** Metrogate provides a user-friendly platform that empowers commuters to effortlessly plan their journeys. Whether you're embarking on your daily work commute or exploring the rich tapestry of Delhi-NCR, we are your trusted guide.
 
-To learn more about Next.js, take a look at the following resources:
+**Interactive Maps:** Our detailed, interactive maps offer a bird's-eye view of the Delhi metro network. These maps are your compass, guiding you to the most efficient routes and seamless connections.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Fare Information:** Keeping your budget in mind, Metrogate delivers up-to-the-minute fare information. Our goal is to ensure that you have a crystal-clear understanding of the cost of your travel, allowing you to make informed decisions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Nearby Landmarks** and Destinations: We transcend the ordinary by highlighting nearby landmarks and attractions, making it easier for you to explore the cultural and historical gems that Delhi has to offer.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## [MetroGate's Website](https://metrogate.in/)
